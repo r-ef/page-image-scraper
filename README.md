@@ -1,1 +1,1 @@
-cargo run
+``Usage: cargo run <url>``
